@@ -1,0 +1,1 @@
+/** * Created by Administrator on 2017/6/28. */const moduleA = 'hello';export {moduleA};
